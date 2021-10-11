@@ -2,7 +2,7 @@
 ## SKAT PARA 1 (O POCOS GENES)
 
 library(SKAT)
-setwd(setwd("/cloud/project/taller SKAT secuencia"))
+setwd("/cloud/project/taller SKAT secuencia")
 
 RH <- read.delim("RH_seq_ALL.txt",stringsAsFactors=F,na.strings=c("","."))
 head(RH)

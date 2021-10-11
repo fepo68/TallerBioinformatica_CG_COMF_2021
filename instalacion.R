@@ -10,15 +10,12 @@
 
 install.packages("splitstackshape")
 install.packages("SKAT")
-install.packages("devtools")
-install.packages("Rtools")
+
+
 
 # Carga de librerias ------------------------------------------------------
 
 library(splitstackshape)
 library(SKAT)
-library(devtools)
-library(Rtools)
-devtools::install_github("leeshawn/MetaSKAT")
 library(MetaSKAT)
 

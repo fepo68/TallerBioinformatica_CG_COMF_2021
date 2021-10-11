@@ -1,7 +1,7 @@
 
 ### ESTABLECER DIRECTORIO DE TRABAJO  
 
-setwd(setwd("/cloud/project/taller SKAT secuencia"))
+setwd("/cloud/project/taller SKAT secuencia")
 
 # DATOS DE EJEMPLO PARA UN INDIVIDUO (1 ARCHIVO)- solo para visualizar y entender lo que se hace dentro del bucle de m?s abajo:
 # abrimos datos gen?ticos
