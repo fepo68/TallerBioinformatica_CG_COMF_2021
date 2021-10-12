@@ -7,15 +7,13 @@
 
 # Instalacion librerias ---------------------------------------------------
 
-
 install.packages("splitstackshape")
 install.packages("SKAT")
-
-
+install.packages("devtools")
+devtools::install_github("leeshawn/MetaSKAT")
 
 # Carga de librerias ------------------------------------------------------
 
 library(splitstackshape)
 library(SKAT)
 library(MetaSKAT)
-
